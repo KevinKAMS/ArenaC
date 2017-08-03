@@ -1,4 +1,4 @@
-﻿# arena-c-game Jogo no terminal do LINUX, projeto da cadeira de introdução a programação.
+﻿# Arena C.
 
 # Projeto de IP
 
