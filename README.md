@@ -1,5 +1,4 @@
-# arena-c-game
-Terminal game using socket library developed as a final project for the Introduction to Programming class.
+﻿# arena-c-gameJogo no terminal do LINUX, projeto da cadeira de introdução a programação.
 
 # Projeto de IP
 
